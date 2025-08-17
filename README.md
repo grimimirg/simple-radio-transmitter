@@ -10,7 +10,7 @@ Transmitting on the FM band without a license may be restricted or illegal in yo
 
 ## Circuit Diagram
 
-![FM Transmitter Schematic](./fm_transmitter_schematic.png)  
+![FM Transmitter Schematic](./schematic.jpg)  
 
 ---
 
