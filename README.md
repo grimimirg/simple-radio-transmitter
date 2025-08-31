@@ -44,7 +44,7 @@ Transmitting on the FM band without a license may be restricted or illegal in yo
 
 ---
 
-## Improvements Implemented
+## Improvements to implemented
 
 - **Audio Input**
   - Increased input resistors to ~22 kΩ for proper line-level impedance.  
