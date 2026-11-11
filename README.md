@@ -1,3 +1,17 @@
+> [!IMPORTANT]
+> ## This GitHub repository has reached its end of life
+>
+> Development has moved to my self-hosted Gitea instance, and further
+> improvements will only land there:
+>
+> ### 👉 https://git.grimilab.duckdns.org/andreagrimandi/simple-radio-transmitter
+>
+> This copy stays online for reference, but it is **no longer updated**, and
+> issues or pull requests opened here will not be picked up. Please switch to
+> the repository above to follow the project.
+
+---
+
 # Simple FM Transmitter with BFW92A
 
 This project is a **small mono FM transmitter** built around the **BFW92A RF transistor**.  
